@@ -1,6 +1,7 @@
 """
 write a program simple interest
 si=p*t*r/100
+dev1
 
 """
 p=10000
