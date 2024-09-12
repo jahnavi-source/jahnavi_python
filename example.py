@@ -2,6 +2,7 @@
 write a program simple interest
 si=p*t*r/100
 hii
+dev1
 
 """
 p=10000
